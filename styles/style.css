@@ -95,6 +95,33 @@ p {
 
 /* Buttons */
 
+.btn_donate, .btn_header_donate {
+  background-color: var(--orange-dark);
+  color: var(--white);
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 10px;
+  text-align: center;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btn_header_volunteer {
+  background-color: var(--white);
+  color: var(--orange-dark);
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 10px;
+  text-align: center;
+  margin: 4px 2px;
+  cursor: pointer;
+}
   /* INSERT BUTTON STYLES HERE */
 
 
@@ -120,7 +147,7 @@ p {
 /* hero */
 
 .hero {
-  background-image: url("header-bike.jpg");
+  background-image: url("images/header-bike.jpg");
   background-color: var(--grey-light);
 }
 
