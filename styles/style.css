@@ -113,9 +113,6 @@ p {
   cursor: pointer;
 }
 
-.btn_donate, .btn_header_donate :hover {
-
-}
 .btn_header_volunteer {
   background-color: var(--white);
   color: var(--orange-dark);
@@ -127,6 +124,7 @@ p {
   margin: 4px 2px;
   cursor: pointer;
 }
+
 
 .btn_header_volunteer:hover {
   background-color: var(--grey-light);
@@ -143,7 +141,6 @@ p {
   border-color: var(--grey-light);
   color: var(--grey-dark);
 }
-  
 
 
 /* Content */
